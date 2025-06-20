@@ -1,0 +1,15 @@
+Ordem de desenvolvimento recomendada:
+
+    Primeiro: Modifique o pubspec.yaml com as dependências
+
+    Segundo: Configure as permissões no AndroidManifest.xml
+
+    Terceiro: Crie o main.dart básico
+
+    Quarto: Desenvolva a home_screen.dart
+
+    Quinto: Implemente o overlay_widget.dart
+
+    Sexto: Crie o screenshot_service.dart
+
+    Sétimo: Configure o código nativo MainActivity.kt
