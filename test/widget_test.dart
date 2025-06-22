@@ -37,6 +37,6 @@ void main() {
     await tester.tap(testButton);
     await tester.pump();
 
-    // O teste passa se não houver erros de execução
+    // se não houver erros de execução o teste passa
   });
 }
