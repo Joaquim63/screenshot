@@ -1,6 +1,6 @@
-Ordem de desenvolvimento recomendada:
+Ordem de desenvolvimento inicial:
 
-    Primeiro: Modifique o pubspec.yaml com as dependências
+    Primeiro: Modifique o pubspec.yaml com as dependências necessarias
 
     Segundo: Configure as permissões no AndroidManifest.xml
 
@@ -13,3 +13,9 @@ Ordem de desenvolvimento recomendada:
     Sexto: Crie o screenshot_service.dart
 
     Sétimo: Configure o código nativo MainActivity.kt
+
+    Oitavo: Melhorias necessarias
+
+    Nono: Correçoes de bug
+
+    Decimo: Publicar no Git
